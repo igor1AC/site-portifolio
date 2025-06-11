@@ -16,3 +16,9 @@ Possui um menu inicial com 3 seções abordando informações sobre mim, meus pr
 **2- Projetos:** Aborda os projetos que participei.                                                                                                       
 
 **3- Contatos:** Uma simulação em java, onde uma mensagem é mandada para o meu email.      
+
+---
+
+## OBS
+
+Para visualizar o site na web, use a extenção live server no vscode
